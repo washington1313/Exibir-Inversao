@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\bin\Debug\Exibir Inversao.exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\bin\Debug\Exibir Inversao.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\bin\Debug\Exibir Inversao.pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\obj\Debug\Exibir Inversao.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\obj\Debug\Exibir Inversao.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\obj\Debug\Exibir Inversao.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\obj\Debug\Exibir Inversao.exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\Exibir Inversao\Exibir Inversao\obj\Debug\Exibir Inversao.pdb
